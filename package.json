@@ -22,12 +22,14 @@
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
-    "babel-loader": "^7.1.5",
-    "coffee-loader": "^1.0.0",
+    "babel-loader": "^8.2.2",
+    "canvg": "^3.0.7",
+    "coffee-loader": "^3.0.0",
     "coffeescript": "^2.5.1",
-    "mathjax-full": "^3.1.2",
+    "mathjax-full": "^3.1.4",
     "uglifyjs-webpack-plugin": "^2.2.0",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0",
+    "xmldom": "^0.6.0"
   }
 }
